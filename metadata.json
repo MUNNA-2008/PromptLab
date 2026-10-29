@@ -1,0 +1,6 @@
+{
+  "name": "PromptLab — Interactive Prompt Engineering Learning Platform",
+  "description": "Interactive Prompt Engineering learning platform featuring guided modules, prompt library, before-and-after comparisons, interactive prompt doctor, quizzes, and score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
